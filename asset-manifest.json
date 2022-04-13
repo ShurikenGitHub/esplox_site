@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/esplox_site/static/js/main.6dfac1b2.js",
+    "index.html": "/esplox_site/index.html",
+    "main.6dfac1b2.js.map": "/esplox_site/static/js/main.6dfac1b2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6dfac1b2.js"
+  ]
+}
